@@ -1,6 +1,6 @@
 # 🚗 Car Rental System
 
-Welcome to the Car Rental System, a Java-based project right now it’s a console app , But in the future, we’re planning to turn it into a web app that you can use in your browser with a cool visual interface! 🌟
+Welcome to the Car Rental System, a Java-based project🌟
 
 ## Features
 
@@ -58,10 +58,13 @@ Follow the steps to rent or return cars! In the future, this will be a web app w
 
 ## Future Roadmap 🛤️
 
+🌐 Turn it into a Web App
+💾 Add a Database to Store Data
 🤝 Support multiple customers renting the same car simultaneously.
 ⏰ Change the price based on the date
 🎨 Develop a graphical user interface (GUI) for enhanced user experience.
 🚘 Add more car details like fuel type (petrol, diesel) and how many seats the car has.
+
 ---
 
 # Car-Rental-System
