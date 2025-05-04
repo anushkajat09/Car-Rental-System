@@ -58,11 +58,10 @@ Follow the steps to rent or return cars! In the future, this will be a web app w
 
 ## Future Roadmap 🛤️
 
-🌐 Turn it into a Web App
+🌐 Develop a graphical user interface (GUI) for enhanced user experience.
 💾 Add a Database to Store Data
 🤝 Support multiple customers renting the same car simultaneously.
 ⏰ Change the price based on the date
-🎨 Develop a graphical user interface (GUI) for enhanced user experience.
 🚘 Add more car details like fuel type (petrol, diesel) and how many seats the car has.
 
 ---
