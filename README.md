@@ -29,8 +29,8 @@ It has:-
 
 1 - Download the Project:
 
-    ~ git clone https://github.com/anushkajat09/Car-Rental-System
-    ~ cd Car-Rental-System
+     git clone https://github.com/anushkajat09/Car-Rental-System
+     cd Car-Rental-System
 
 2 - Set Up Java:
 
@@ -45,8 +45,8 @@ Set the JDK to 20 in your IDE settings.
 Click "Run" on the Main class (src/Main.java).
 Using Command Line:
 
-    ~ javac -d out src/*.java
-    ~ java -cp out Main
+     javac -d out src/*.java
+     java -cp out Main
 
 4 - Start Renting Cars:
 
